@@ -1,17 +1,5 @@
 <?php
 
-//test var
-$i=2;
-$j=3;
-$nama="Budi";
-echo "Halo $nama <br>";
-echo 'Halo $nama <br>';
-echo "Halo {$nama} <br>";
-echo "I+J= {$i}+{$j} <br>";
-echo "I+J= " . $i+$j . " <br>";
-$k=$i+$j;
-echo "I+J= {$k} <br>";
-
 //test array
 
 $cars=array("Volvo","BMW","Toyota");
@@ -67,7 +55,7 @@ print_r(array_values($a));
 echo "<br>";
 
 function myfunction($v){
-  return($v*$v);
+  return ($v * $v);
 }
 
 $a=array(1,2,3,4,5);

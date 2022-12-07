@@ -15,7 +15,7 @@
 |   - Pengertian
 |       Menyimpan data bernilai true atau false. Atau dapat ditulis dengan
 |       angka 1 atau 0.
-
+|
 |   - Contoh
 |       ^ true
 |       ^ false
@@ -26,7 +26,7 @@
 |   - Pengertian
 |       Menyimpan data bilangan bulat, baik berupa bilangan desimal, oktal
 |       maupun hexadesimal. Jangkauan nilai integer adalah -2^31 sampai 2^31.
-
+|
 |   - Contoh
 |       ^ 45 (desimal)
 |       ^ -65446 (desimal)
